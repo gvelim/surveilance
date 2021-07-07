@@ -1,4 +1,6 @@
 absl-py==0.12.0
+aiofiles==0.4.0
+aiologger==0.6.1
 appnope==0.1.2
 asgiref==3.3.4
 astunparse==1.6.3
@@ -8,6 +10,7 @@ certifi==2020.12.5
 chardet==4.0.0
 cycler==0.10.0
 decorator==5.0.9
+dict-toolbox==2
 Django==3.2.2
 flatbuffers==1.12
 gast==0.4.0
@@ -30,6 +33,8 @@ kiwisolver==1.3.1
 Markdown==3.3.4
 matplotlib==3.4.2
 matplotlib-inline==0.1.2
+msgpack==1.0.2
+nest-asyncio==1.5.1
 numpy==1.19.3
 oauthlib==3.1.0
 opencv-python==4.5.2.52
@@ -38,8 +43,12 @@ parso==0.8.2
 pexpect==4.8.0
 pickleshare==0.7.5
 Pillow==8.2.0
+pop==20.0.0
+pop-config==6.11
+pop-loop==1.0.3
 prompt-toolkit==3.0.18
 protobuf==3.17.0
+proxy-tools==0.1.0
 ptyprocess==0.7.0
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
@@ -54,6 +63,7 @@ requests-oauthlib==1.3.0
 rsa==4.7.2
 scipy==1.6.3
 six==1.15.0
+sniffio==1.2.0
 sqlparse==0.4.1
 tensorboard==2.5.0
 tensorboard-data-server==0.6.1
